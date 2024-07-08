@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience professional and hassle-free car rental services tailored to your journey.",
+        "title": "Discover Seamless Car Rentals"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover Seamless Car Rentals",
+  "subtitle": "Experience professional and hassle-free car rental services tailored to your journey."
+}
